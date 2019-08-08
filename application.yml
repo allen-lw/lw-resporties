@@ -8,3 +8,4 @@ spring:
   application:
     name: microservice-config-dev
     
+master is changed
